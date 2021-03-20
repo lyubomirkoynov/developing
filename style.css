@@ -1,0 +1,10 @@
+body {
+  background-color: #cfd8dc;
+}
+
+.container {
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: no-repeat;
+	text-align: center;
+}
